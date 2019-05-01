@@ -147,6 +147,15 @@ Automatic merge failed; fix conflicts and then commit the result.
 USER@USER9-PC MINGW64 /c/Git_Local_Repository/dev003_home (master|MERGING)
 $ vi hello_wold.c
 
+#include <stdio.h>
+
+void main(){
+        /* 서버 버전과 통합 2019-04-30 11:45*/
+        printf("Hello! world and Hyunkoo!");
+}
+=>손으로 이 단계에서 
+
+
 USER@USER9-PC MINGW64 /c/Git_Local_Repository/dev003_home (master|MERGING)
 $ git add hello_wold.c
 
