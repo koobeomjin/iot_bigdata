@@ -13,4 +13,5 @@ void main(){
 		scanf("%d",&number2);
 		--number1;
 	}
+	
 }

@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+void main(){
+	int cur, is;
+
+	printf("구구단을 외자!\n");
+	for(cur=2; cur<10; cur++){
+		printf("== %d단 ==\n",cur);
+		for(is=1;is<10;is++){
+			printf("%d * %d = %d\n", cur, is, cur*is);
+		}
+		printf("\n");
+	}
+}
