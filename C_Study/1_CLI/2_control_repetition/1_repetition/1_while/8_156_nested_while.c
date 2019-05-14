@@ -20,12 +20,12 @@ void main(){
 		while(current_times<10){
 			multiplier=1; // 각 열을 접근하는 조건을 초기화
 
-				printf("==== %d단 ===== \n\n", current_times);
-				while(multiplier<10){
-					printf("%d * %d = %d \n", current_times, multiplier, current_times*multiplier);
-					multiplier++; // 다음 열을 접근하기 위한 조건을 설정
-				}
-				printf("\n");		
-				current_times++; // 다음 행을 접근하기 위한 조건 설정
+			printf("==== %d단 ===== \n\n", current_times);
+			while(multiplier<10){
+				printf("%d * %d = %d \n", current_times, multiplier, current_times*multiplier);
+				multiplier++; // 다음 열을 접근하기 위한 조건을 설정
 			}
+			printf("\n");		
+			current_times++; // 다음 행을 접근하기 위한 조건 설정
+		}
 }

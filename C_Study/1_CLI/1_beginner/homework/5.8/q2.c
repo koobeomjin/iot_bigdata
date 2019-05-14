@@ -17,6 +17,6 @@ void main(){
 	result = a*b;
 	printf("%lf\n",result);
 
-	result = a-b;
+	result = a/b;
 	printf("%lf\n",result);
 }

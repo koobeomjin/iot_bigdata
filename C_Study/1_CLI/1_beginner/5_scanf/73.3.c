@@ -4,7 +4,7 @@ void main(){
 	int number1;
 	int result;
 
-	printf("숫자를 입력하세요: ");
+	printf("¼yAU¸| AO·ACI¼¼¿a: ");
 	scanf("%d", &number1);
 
 	result = number1*number1;

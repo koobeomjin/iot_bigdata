@@ -18,6 +18,6 @@ void main(){
 	// 단점 : 복잡한 조건을 표현하는 데에는 제약사항이 존재한다.
 	// 활용 : 간단한 반복처리를 할 때 유용하다.
 	for(num=0;num<3;num++){
-		printf("Hi~%d",num);
+		printf("Hi~%d\n",num);
 	}
 }

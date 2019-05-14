@@ -12,7 +12,7 @@ void main(){
 //	result3 = num3%num1;
 	result3 = 2130567168%0;
 
-	printf("세 수를 입력하세요: ");
+	printf("¼¼ ¼o¸| AO·ACI¼¼¿a: ");
 	scanf("%d %d %d", &num1, &num2, &num3);
 
 	printf("(%d-%d)*(%d+%d)*(%d%%%d) = %d\n", num1, num2, num2, num3, num3, num1,result1*result2*result3);

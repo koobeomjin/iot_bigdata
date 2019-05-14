@@ -6,7 +6,7 @@ void main(){
 	int	number3;
 	int result;
 
-	printf("¼ıÀÚ ¼¼°³¸¦ ÀÔ·ÂÇØÁÖ¼¼¿ä: ");
+	printf("ï©Öğ ĞüåïÜË ??òÚ×ùĞü?: ");
 	scanf("%d %d %d", &number1, &number2, &number3);
 
 	result = (number1-number2)*(number2+number3)*(number3%number1);
