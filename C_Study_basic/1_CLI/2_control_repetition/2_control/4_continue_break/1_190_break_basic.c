@@ -16,6 +16,7 @@ void main(){
 	number++;
 }
 
+	// ctrl + Shift + F10 사용시 해당 명령어 라인으로 강제 탈출
 	printf("sum: %d, 제한 누적수: %d) \n", sum, target_accumulated_number);
 	printf("최종 number: %d \n", number);
 }

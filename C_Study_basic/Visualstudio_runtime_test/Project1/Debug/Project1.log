@@ -1,0 +1,5 @@
+﻿  4_pointer_array.c
+C:\iot_bigdata\C_Study_basic\2_C_intemediate\4_Pointer\3_string\4_pointer_array.c(7,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\iot_bigdata\C_Study_basic\2_C_intemediate\4_Pointer\3_string\4_pointer_array.c(8,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\iot_bigdata\C_Study_basic\2_C_intemediate\4_Pointer\3_string\4_pointer_array.c(9,9): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  Project1.vcxproj -> C:\iot_bigdata\C_Study_basic\Visualstudio_runtime_test\Debug\Project1.exe
