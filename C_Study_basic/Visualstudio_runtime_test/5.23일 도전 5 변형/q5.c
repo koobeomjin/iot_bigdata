@@ -10,7 +10,7 @@ void main()
 
 	printf("정수 7개를 입력하세요: ");
 	for (i = 0; i < 7; i++) {
-	scanf("%d", arr[i]);
+	scanf("%d", &arr[i]);
 }
 	BubbleSort(arr, sizeof(arr) / sizeof(int));
 	for (i = 0; i < 7; i++) {
