@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#pragma wraning (disable:4996)
+
+void main(){
+	char str[20];
+
+	printf("정수 입력: ");
+	scanf("%s", str);
+	printf("%d \n", atoi(str));
+	
+}

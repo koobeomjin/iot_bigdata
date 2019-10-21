@@ -1,0 +1,4 @@
+﻿  a_441.c
+C:\iot_bigdata\C_Study\3_internal_function\2_string\a_441.c(12,13): warning C4013:  'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\iot_bigdata\C_Study\3_internal_function\2_string\a_441.c(18,15): warning C4013:  'strncmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  5.31-4.vcxproj -> C:\iot_bigdata\C_Study_basic\Visualstudio_runtime_test\Debug\5.31-4.exe
